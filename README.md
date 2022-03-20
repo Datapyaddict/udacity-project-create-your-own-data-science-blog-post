@@ -41,4 +41,4 @@ It takes less than 5 min to run.
 ***
 ### Medium blog post
 
-The blog can be found [here](#https://medium.com/@anhtuan.nguyen.london/european-eating-out-trends-some-key-insights-from-data-exploration-b0fa833d34c0).
+The blog can be found [here](https://medium.com/@anhtuan.nguyen.london/european-eating-out-trends-some-key-insights-from-data-exploration-b0fa833d34c0).
